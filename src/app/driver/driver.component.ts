@@ -40,7 +40,7 @@ export class DriverComponent implements OnInit {
 
     // Populate the "driverData" with some static data (this would normally come from a data service)
     this.driverData = {
-      name: "Richard Hammond",
+      name: "Richard Hammond test",
       description: "Richard is a motor vehicle enthusiast",
       ownedTransportation: ["C", "M"], 
       favouriteTransportation: "M",
